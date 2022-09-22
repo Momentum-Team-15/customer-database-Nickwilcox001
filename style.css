@@ -1,0 +1,27 @@
+.customer
+{
+    font-size: large;
+    color: black;
+    padding: 3px;
+    border: 1px solid blue;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 300px;
+    justify-content: center;
+    text-align: center;
+}
+#customerContainer
+{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.thumbnail
+{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 40%;
+   border-radius: 50%;
+}
