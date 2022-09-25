@@ -2,19 +2,19 @@
 {
     font-size: large;
     color: black;
-    padding: 3px;
-    border: 1px solid blue;
+    padding: 15px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     width: 300px;
-    justify-content: center;
     text-align: center;
+    line-height: normal;
 }
 #customerContainer
 {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 
 }
 .thumbnail
